@@ -5,7 +5,7 @@
 // --- Connection Details ---
 $servername = "sql105.byethost10.com";
 $username = "b10_39913602";
-$password = "Cr0ssfire";
+$password = "*change_me*";
 $dbname = "b10_39913602_webapp";
 
 // Establish a direct database connection using MySQLi.
